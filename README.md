@@ -108,6 +108,17 @@ To quickly execute the code, use the keyboard shortcut: Shift + Enter.
 
 The most important piece of code we need to run is the imports. Without these, information may not get pulled correctly.
 
+In order to enable Mapbox API we need to use our Mapbox API key.
+
+First we pull the information for San Francisco's gross rent, sales price per square foot, and housing units between 2010 and 2016.
+We then evaluate the housing trends, looking to see how many units were sold in the year.
+
+Next, we evaluate the trends for gross rent, sales price per square foot to see how the market functions. We analyze by time periods and by neighborhood.
+
+Lastly, an interactive map that 
+
+
+
 
 ---
 
