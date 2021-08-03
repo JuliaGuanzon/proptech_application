@@ -122,17 +122,19 @@ In order to enable Mapbox API we need to use our Mapbox API key. We use the code
 
 
 In this application, we begin by pulling information for San Francisco's gross rent, sales price per square foot, and housing units between 2010 and 2016.
-Then, we evaluate the housing trends by looking to see how many units were sold during each year. 
+Then, we evaluate the housing trends by looking to see how many units were sold during each year. By hovering on the bars, you can see the detail regarding the amount of housing units sold that year.
 ![Housing units graph](https://user-images.githubusercontent.com/84649228/127962569-2b2fed37-8e30-4e85-97d2-8eea6abe12ba.png)
 
 
-Next, we evaluate the trends for gross rent and sales price per square foot to see how the market functions. We analyze by time periods and by neighborhood. By evaluating both, we can see how individual neighborhoods compare to the yearly averages of San Francisco.
+Next, we evaluate the trends for gross rent and sales price per square foot to see how the market functions. We analyze by time periods and by neighborhood. By evaluating both, we can see how individual neighborhoods compare to the yearly averages of San Francisco. By hovering over certain periods on the line graph, you can look at the detail for  gross rent and sales price per square foot.
 
 ![graph](https://user-images.githubusercontent.com/84649228/127962771-f72dba06-53bb-4c0f-a486-560154200bec.png)
 
+In the graph by neighborhoods, there is a drop down menu where you can choose from different neighborhoods.
+
 ![neighborhood](https://user-images.githubusercontent.com/84649228/127962864-e9c8252a-2817-4a6c-8de5-c6b1b07bda8e.png)
 
-Lastly, we present the user with an interactive map where they can hover over different neighborhoods, gathering a snapshot of important information to make their decision.
+Lastly, we present the user with an interactive map where they can zoom in/out and hover over different neighborhoods, gathering a snapshot of important information to make their decision.
 
 ![image](https://user-images.githubusercontent.com/84649228/127963663-0fc24df9-a1f8-4082-9e27-bfb5e80ff894.png)
 
