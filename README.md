@@ -1,7 +1,7 @@
 # Proptech Application
 ## Housing Rental Analysis for San Francisco
 
-Proptech is an innovative field that joins the real estate market and technology. By bringing technology to the real estate market, we can cut down the time it takes for research and comparisons. Investing in real estate can be difficult to do as you need to gather the right information to make an informative decision. The amount of information that can be gathered during this process can be overwhelming, and in the end, make people frustrated. This application is an instant, one-click service for people looking to buy properties to rent. We narrow down all the important information that can aid in decision-making. We provide an interactive map to show our clients the prices and average rental income in San Francisco. Our goal is to help these buyers find the best deals around San Francisco's neighborhoods. 
+Proptech is an innovative field that joins the real estate market and technology. By bringing technology to the real estate market, we can cut down the time it takes for research and comparisons. Investing in real estate can be difficult to do as you need to gather the right information to make an informative decision. The amount of information that can be gathered during this process can be overwhelming, and in the end, make people frustrated. This application is an instant, one-click service for people looking to buy properties to rent. We narrow down all the important information that can aid in decision-making. We provide an interactive map to showing the prices and average rental income in San Francisco. Our goal is to help buyers find the best deals around San Francisco's neighborhoods. 
 
 ---
 
