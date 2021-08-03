@@ -1,7 +1,7 @@
 # Proptech Application
 ## Housing Rental Analysis for San Francisco
 
-Proptech is an innovative field that joins the real estate market and technology. This proptech application is an instant, one-click service for people looking to buy properties to rent. Our goal is to help these buyers find the best deals around San Francisco's neighborhoods. 
+Proptech is an innovative field that joins the real estate market and technology. By bringing technology to the real estate market, we can cut down the time it takes for research and comparisons. Investing in real estate can be difficult to do as you need to gather the right information to make an informative decision. The amount of information that can be gathered during this process can be overwhelming, and in the end, make people frustrated. This application is an instant, one-click service for people looking to buy properties to rent. We narrow down all the important information that can aid in decision-making. We provide an interactive map to show our clients the prices and average rental income in San Francisco. Our goal is to help these buyers find the best deals around San Francisco's neighborhoods. 
 
 ---
 
@@ -76,7 +76,7 @@ jupyter labextension install @pyviz/jupyterlab_pyviz --no-build
 jupyter lab build
 ```
 
-As we are using Mapbox API to pull current data, you will need to use your MapBox API key to pull in the information. Be sure to have your *.env* file around to use this application.
+As we are using Mapbox API to aid in creating an interactive map, you will need to use your MapBox API key to pull in map details. Be sure to have your *.env* file around to use this application.
 
 ```
 !pip install python-dotenv
